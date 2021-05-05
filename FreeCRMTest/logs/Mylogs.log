@@ -1,0 +1,4 @@
+[INFO ] 2021-04-28 14:27:20.580 [main] LoginPageTest - loginPageTittleTest info
+[ERROR] 2021-04-28 14:27:20.589 [main] LoginPageTest - loginPageTittleTest error
+[WARN ] 2021-04-28 14:27:20.590 [main] LoginPageTest - loginPageTittleTest warn
+[FATAL] 2021-04-28 14:27:20.591 [main] LoginPageTest - loginPageTittleTest fatal
