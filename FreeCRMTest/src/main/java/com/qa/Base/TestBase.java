@@ -49,7 +49,7 @@ public class TestBase {
 
 	        driver = new ChromeDriver(capability);
 	        
-	//      Chromeoptions was introduced as we are getting error as: Your connection is not private
+	//      Chromeoptions was introduced as we are getting error as: Your connection is not private....
 	//      driver=new ChromeDriver();
 	        
 	  }
