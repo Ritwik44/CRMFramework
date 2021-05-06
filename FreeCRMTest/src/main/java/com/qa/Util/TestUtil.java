@@ -59,7 +59,7 @@ public class TestUtil extends TestBase {
 	}
 	
 	//Test 1
-	//Test2
+	//Test2..
 	/*public static void takeScreenshotAtEndOfTest() throws IOException {
 		
 	
