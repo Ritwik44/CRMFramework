@@ -66,7 +66,7 @@ public class TestUtil extends TestBase {
 	//	String currentDir = System.getProperty("user.dir");
 	//	FileHandler.copy(scrFile, new File(currentDir + "/screenshots/" + System.currentTimeMillis() + ".png"));
 		
-	     above 2 lines of code is not creating the Screenshot folder in the Project Directory, so we have created a normal Screenshot
+	    above 2 lines of code is not creating the Screenshot folder in the Project Directory, so we have created a normal Screenshot
 		folder manually in the Current Project directory and it works but this method will not capture the screenshot when assertion error will come	
 		
 		FileHandler.copy(scrFile, new File("./Screenshots/" +System.currentTimeMillis() + ".png"));
